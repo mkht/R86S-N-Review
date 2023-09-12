@@ -12,7 +12,7 @@
 
 ## スペック
 
-- CPU： Intel N100 / Intel Core i3-N305
+- CPU： Intel N100 (4C4T) / Intel Core i3-N305 (8C8T)
 - メモリ： 8GB / 16GB (LPDDR5-4800)
 - eMMC： 128GB
 - M.2： M.2 2280 x 1 + M.2 2230 x1 (10GbEと排他)
